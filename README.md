@@ -1,4 +1,4 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Valpuia&theme=tokyonight" alt="mystreak"/> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valpuia)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=valpuia&theme=tokyonight" alt="mystreak"/> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valpuia)
 
 ![PHP](https://img.shields.io/badge/-PHP-505BC3?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FE1D1D?style=for-the-badge&logo=laravel&logoColor=white)
