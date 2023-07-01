@@ -5,3 +5,4 @@
 ![Livewire](https://img.shields.io/badge/Livewire-F645BB?style=for-the-badge&logo=livewire&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-22B4F3?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-D1D117?style=for-the-badge&logo=laravel&logoColor=white)
+![Alpine JS](https://img.shields.io/badge/AlpineJS-2EE4F9?style=for-the-badge&logo=javascript&logoColor=white)
