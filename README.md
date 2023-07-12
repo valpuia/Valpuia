@@ -1,4 +1,4 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=valpuia&theme=tokyonight" alt="mystreak"/> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valpuia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=valpuia)
 
 ![PHP](https://img.shields.io/badge/-PHP-505BC3?style=for-the-badge&logo=php&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-22B4F3?style=for-the-badge&logo=tailwindcss&logoColor=white)
