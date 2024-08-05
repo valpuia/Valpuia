@@ -1,5 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=valpuia)
-
 ![PHP](https://img.shields.io/badge/-PHP-505BC3?style=for-the-badge&logo=php&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-22B4F3?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Alpine JS](https://img.shields.io/badge/AlpineJS-38CEDF?style=for-the-badge&logo=javascript&logoColor=white)
